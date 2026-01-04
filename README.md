@@ -1,0 +1,1 @@
+This project provides a lightweight and developer‑friendly JSON Web Token (JWT) generator designed for modern .NET applications. It simplifies the process of issuing secure access tokens using industry‑standard signing algorithms such as HMAC or RSA. The generator is ideal for authentication flows, API security, and microservice communication.
